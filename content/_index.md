@@ -8,7 +8,7 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Paris 2020" %}}
 
 ## October 3rd, 2019
 ### Pierre Baudis congress center
@@ -26,7 +26,7 @@ menu:
 
 
 {{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## What is DevFest Toulouse?
+## What is DevFest Paris?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
 It is aimed at students, professionals or simply curious technophiles.
@@ -101,17 +101,17 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    address="327 Rue de Charenton, 75012 Paris"
+    latitude="48.8328838"
+    longitude="2.3943578" %}}
 
 ## The venue
 
 ### Centre de Congrès Pierre Baudis
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
+The Espace Charenton is a modern place of exchange,
 located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+in the immediate vicinity of the subway.
 
 {{% /home-location %}}
 
@@ -119,7 +119,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
+### Some pictures of the **DevFest Paris 2018** with the 👾 _anime_ theme.
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
     See all photos

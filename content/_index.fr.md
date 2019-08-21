@@ -7,7 +7,7 @@ menu:
 
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Paris 2020" %}}
 
 ## 3 Octobre, 2019
 ### Centre de Congrès Pierre Baudis
@@ -25,7 +25,7 @@ menu:
 <!-- ... -->
 
 {{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:4" class="primary" %}}
-## Le DevFest Toulouse, c'est quoi ?
+## Le DevFest Paris, c'est quoi&nbsp;?
 
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants qu'aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
@@ -96,17 +96,17 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans-Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    address="327 Rue de Charenton, 75012 Paris"
+    latitude="48.8328838"
+    longitude="2.3943578" %}}
 
 ## Le lieu
 
 ### Centre de Congrès Pierre Baudis
 
-Le Centre de Congrès Pierre Baudis est un lieu d'échanges moderne,
+L'Espace Charenton est un lieu d'échanges moderne,
 situé sur un emplacement privilégié,
-à proximité immédiate du centre de Toulouse et dans un environnement verdoyant.
+à proximité immédiate du métro.
 
 {{% /home-location %}}
 
@@ -114,7 +114,7 @@ situé sur un emplacement privilégié,
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-### Quelques photos du **DevFest Toulouse 2018** avec le thème 👾 _retro-gaming_. 
+### Quelques photos du **DevFest Paris 2018** avec le thème 👾 _retro-gaming_. 
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
     Voir toutes les photos
