@@ -15,6 +15,7 @@ workflows:
             branches:
               only: master
 
+jobs:
   deploy:
     docker:
       - image: circleci/node:latest
