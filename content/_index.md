@@ -32,39 +32,37 @@ The DevFest, or 'Developers Festival', is a technical conference for developers.
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
-
+<!--
 {{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
+-->
 
 <!-- ... -->
 
-
-
+<!--
 {{% home-speakers %}}
 ## Featured Speakers
-
-<!--
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
---> 
-
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
-
 {{% /home-speakers %}}
-
+-->
 
 <!-- ... -->
 
+<!--
 {{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
+-->
 
 <!-- ... -->
 
+<!--
 {{% home-tickets %}}
 # Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
@@ -95,7 +93,7 @@ It is aimed at students, professionals or simply curious technophiles.
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
-
+-->
 
 <!-- ... -->
 
@@ -117,6 +115,7 @@ in the immediate vicinity of the subway.
 
 <!-- ... -->
 
+<!--
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
 ### Some pictures of the **DevFest Paris 2018** with the 👾 _anime_ theme.
@@ -127,12 +126,12 @@ in the immediate vicinity of the subway.
 </a>
 
 {{% /album  %}}
+-->
 
 <!-- ... --> 
 
-<!--
 {{% partners categories="platinium,gold,startup,soutien,communautes" %}}
--->
+
 ## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Become a sponsor</a>
 
 {{% /partners %}}
