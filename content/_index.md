@@ -11,7 +11,7 @@ menu:
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Paris 2020" %}}
 
 ## October 3rd, 2019
-### Pierre Baudis congress center
+### Espace Charenton
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -100,14 +100,14 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.jpg"
+    image="/images/map.png"
     address="327 Rue de Charenton, 75012 Paris"
     latitude="48.8328838"
     longitude="2.3943578" %}}
 
 ## The venue
 
-### Centre de Congrès Pierre Baudis
+### Espace Charenton
 
 The Espace Charenton is a modern place of exchange,
 located on a privileged location,
@@ -130,7 +130,9 @@ in the immediate vicinity of the subway.
 
 <!-- ... --> 
 
+<!--
 {{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+-->
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Become a sponsor</a>
 
 {{% /partners %}}

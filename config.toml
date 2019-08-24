@@ -6,7 +6,6 @@ title = "Devfest Paris 2020"
 theme = "devfest-theme-hugo"
 
 # Params
-
 enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
@@ -18,17 +17,17 @@ googleAnalytics = "UA-37717223-8"
     date = "2019-10-03"
     description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
     images = ["/images/social-share.jpg"]
-    email = "contact@devfesttoulouse.fr"
+    email = "contact@gdgparis.com"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
-    copyright = "We :heart:️ chocolatines"
-    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-    subscriptionUrl = "http://eepurl.com/dps1j5"
+    copyright = "We :heart:️ baguettes"
+    cfpUrl = ""
+    subscriptionUrl = ""
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
-    themeColor = "#a0dca8"
+    themeColor = "#673ab7"
 
 [params.logos]
     jumbo = "/images/logos/devfest_color_text.svg"
