@@ -1,9 +1,8 @@
 version: 2
 jobs:
-  build:
-    working_directory: ~/site-devfest
+  build-theme:
     docker:
-      - image: cibuilds/hugo:latest
+      - image: circleci/node:latest
     steps:
       - checkout
       - run: git submodule sync && git submodule update --init
@@ -15,38 +14,52 @@ jobs:
       - save_cache:
           paths: themes/devfest-theme-hugo/node_modules
           key: theme-deps-{{ checksum "themes/devfest-theme-hugo/package.json" }}
-      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       - persist_to_workspace:
-          root: ./
+          root: themes/devfest-theme-hugo
           paths:
-            - public
+            - static
+
+    build-site:
+      docker:
+        - image: circleci/hugo:latest
+      steps:
+        - checkout
+        - run: git submodule sync && git submodule update --init
+        - attach_workspace:
+            at: themes/devfest-theme-hugo
+        - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+        - persist_to_workspace:
+            root: .
+            paths:
+              - public
 
     deploy:
-      working_directory: ~/site-devfest
       docker:
-        - image: circleci/node:10.15.3
+        - image: circleci/node:latest
       steps:
         - checkout
         - restore_cache:
             keys:
               - main-deps-{{ checksum "package.json" }}
               - main-deps-
-        - run: npm i
+        - run: npm install
         - save_cache:
             paths: node_modules
             key: main-deps-{{ checksum "package.json" }}
         - attach_workspace:
-            at: ~/site-devfest
+            at: .
         - run: npm run deploy:ci
 
 workflows:
   version: 2
   build-deploy-master:
     jobs:
-      - build
+      - build-theme
+      - build-site
       - deploy:
           requires:
-            - build
+            - build-theme
+            - build-site
           filters:
             branches:
               only: master
