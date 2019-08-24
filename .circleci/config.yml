@@ -55,10 +55,11 @@ workflows:
   build-deploy-master:
     jobs:
       - build-theme
-      - build-site
-      - deploy:
+      - build-site:
           requires:
             - build-theme
+      - deploy:
+          requires:
             - build-site
           filters:
             branches:
