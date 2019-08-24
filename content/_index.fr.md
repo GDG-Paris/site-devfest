@@ -9,10 +9,10 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Paris 2020" %}}
 
-## 3 Octobre, 2019
-### Centre de Congrès Pierre Baudis
+## 14 Février 2020
+### Espace Charenton
 
-<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a> -->
+<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Devenez Partenaire 🇫🇷</a> -->
 
 <!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
@@ -30,18 +30,19 @@ menu:
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants qu'aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
+<!--
 {{< youtube-section link="ZQGRMJzi6yU" title="Les meilleurs moments 2018" class="" >}}
+-->
 
 <!-- ... -->
 
+<!--
 {{% home-speakers %}}
 ## Conférenciers en vedette
 
-<!--
 {{< button-link label="Proposer une présentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
--->
 
 {{< button-link label="Voir tous les conférenciers"
                 url="./speakers"
@@ -49,20 +50,23 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 
 {{% /home-speakers %}}
+-->
 
 <!-- ... -->
 
+<!--
 {{% home-subscribe class="primary" %}}
 
 ## Soyez notifié des dernières informations !
 
 {{% /home-subscribe %}}
+-->
 
 <!-- ... -->
 
+<!--
 {{% home-tickets %}}
 # Billets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Billeterie</a>
-
 
 <ul>
 <li>{{< ticket name="Blind Birds"
@@ -91,18 +95,19 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 \* Votre billet vous donne accès à toutes les conférences, aux pauses café et au repas. L'hébergement n'est **pas** inclus dans ce prix.
 
 {{% /home-tickets %}}
+-->
 
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.jpg"
+    image="/images/map.png"
     address="327 Rue de Charenton, 75012 Paris"
     latitude="48.8328838"
     longitude="2.3943578" %}}
 
 ## Le lieu
 
-### Centre de Congrès Pierre Baudis
+### Espace Charenton à Paris
 
 L'Espace Charenton est un lieu d'échanges moderne,
 situé sur un emplacement privilégié,
@@ -112,22 +117,24 @@ situé sur un emplacement privilégié,
 
 <!-- ... -->
 
+<!--
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-### Quelques photos du **DevFest Paris 2018** avec le thème 👾 _retro-gaming_. 
+### Quelques photos du **DevFest Paris 2018** avec le thème _anime_. 
 
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/mqeEg2ixhHDZizVJ8">
     Voir toutes les photos
     {{% icon "right" %}}
 </a>
 
 {{% /album  %}}
-
+-->
 
 <!-- ... -->
 
 
 {{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-## Partenaires <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a>
+
+## Partenaires <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Devenez Partenaire 🇫🇷</a>
 
 {{% /partners %}}
