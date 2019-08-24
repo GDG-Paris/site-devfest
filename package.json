@@ -15,6 +15,6 @@
   "license": "MIT",
   "homepage": "https://github.com/GDG-Paris/site-devfest-2019#readme",
   "devDependencies": {
-    "firebase": "^6.4.2"
+    "firebase-tools": "^7.2.4"
   }
 }
