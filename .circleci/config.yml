@@ -27,7 +27,7 @@ jobs:
       - run: git submodule sync && git submodule update --init
       - attach_workspace:
           at: themes/devfest-theme-hugo
-      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+      - run: HUGO_ENV=production hugo -v
       - persist_to_workspace:
           root: .
           paths:
