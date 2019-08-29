@@ -10,3 +10,41 @@
     - link: 'https://www.linkedin.com/in/benjaminlacroix/'
       name: Linkedin
   key: benjamin_lacroix
+- title: Michel Parpaillon
+  type: core
+  subtitle: GDG Paris
+  photo: michel-parpaillon.jpeg
+  socials:
+    - link: 'https://www.twitter.com/mparpaillon'
+      name: Twitter
+    - link: 'https://github.com/mparpaillon'
+      name: Github
+    - link: 'https://www.linkedin.com/in/michel-parpaillon-28b65223/'
+      name: Linkedin
+- title: Aude Plessier
+  type: core
+  subtitle: GDG Paris
+  photo: aude-plessier.png
+  socials:
+    - link: 'https://www.twitter.com/audeplessier'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/aude-plessier/'
+      name: Linkedin
+- title: Pritesh Bheemanee
+  type: core
+  subtitle: GDG Paris
+  photo: pritesh-bheemanee.png
+  socials:
+    - link: 'https://www.twitter.com/PriteshP23'
+      name: Github
+    - link: 'https://www.linkedin.com/in/priteshbheemanee/'
+      name: Linkedin
+- title: Leena Bheemanee
+  type: core
+  subtitle: GDG Paris
+  photo: leena-bheemanee.png
+  socials:
+    - link: 'https://www.twitter.com/LeenaK26'
+      name: Github
+    - link: 'https://www.linkedin.com/in/leenabheemanee/'
+      name: Linkedin
