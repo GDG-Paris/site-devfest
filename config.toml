@@ -14,7 +14,7 @@ googleAnalytics = "UA-37717223-8"
 
 [params]
     title = "DevFest Paris 2020"
-    date = "2019-10-03"
+    date = "2020-02-14"
     description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
     images = ["/images/social-share.jpg"]
     email = "contact@gdgparis.com"
