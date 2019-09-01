@@ -10,7 +10,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = "UA-37717223-8"
+googleAnalytics = "UA-47720405-7"
 
 [params]
     title = "DevFest Paris 2020"
