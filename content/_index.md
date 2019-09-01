@@ -10,8 +10,8 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Paris 2020" %}}
 
-## October 3rd, 2019
-### Espace Charenton
+## February 14th, 2020
+### Le Palais des Congrès d'Issy
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -105,9 +105,9 @@ It is aimed at students, professionals or simply curious technophiles.
 
 ## The venue
 
-### Espace Charenton
+### Le Palais des Congrès d'Issy
 
-The Espace Charenton is a modern place of exchange,
+Le Palais des Congrès d'Issy is a modern place of exchange,
 located on a privileged location,
 in the immediate vicinity of the subway.
 

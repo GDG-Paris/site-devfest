@@ -1,16 +1,18 @@
 id: HJRThubF4uYPkb7jSUxi
 name: DevFest Paris 2020
+image: map.png
 address:
-  formattedAddress: '11 Espl. Compans Caffarelli, 31000 Toulouse, France'
+  name: Le Palais des Congrès d'Issy
+  formattedAddress: '25 Avenue Victor Cresson, 92130 Issy-les-Moulineaux'
   locality:
-    long_name: Toulouse
-    short_name: Toulouse
+    long_name: Issy-les-Moulineaux
+    short_name: Issy-les-Moulineaux
   country:
     long_name: France
     short_name: FR
   latLng:
-    lat: 43.6115538
-    lng: 1.4345827
+    lat: 48.8229526
+    lng: 2.2676327,17z
 dates:
-  start: '2019-10-03T10:00:00.000Z'
-  end: '2019-10-03T10:00:00.000Z'
+  start: '2020-02-14T08:00:00.000Z'
+  end: '2020-02-14T20:00:00.000Z'

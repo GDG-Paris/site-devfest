@@ -10,7 +10,7 @@ menu:
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Paris 2020" %}}
 
 ## 14 Février 2020
-### Espace Charenton
+### Le Palais des Congrès d'Issy
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Devenez Partenaire 🇫🇷</a> -->
 
@@ -99,17 +99,13 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 <!-- ... -->
 
-{{% home-location
-    image="/images/map.png"
-    address="327 Rue de Charenton, 75012 Paris"
-    latitude="48.8328838"
-    longitude="2.3943578" %}}
+{{% home-location %}}
 
 ## Le lieu
 
-### Espace Charenton à Paris
+### Le Palais des Congrès d'Issy
 
-L'Espace Charenton est un lieu d'échanges moderne,
+Le Palais des Congrès d'Issy est un lieu d'échanges moderne,
 situé sur un emplacement privilégié,
 à proximité immédiate du métro.
 
