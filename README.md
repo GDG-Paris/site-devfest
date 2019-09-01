@@ -1,6 +1,6 @@
-# Site DevFest 2019
+# Site DevFest 2020
 
-[![pipeline status](https://gitlab.com/devfest-toulouse/site-devfest-2019/badges/develop/pipeline.svg)](https://gitlab.com/devfest-toulouse/site-devfest-2019/commits/develop)
+[![CircleCI](https://circleci.com/gh/GDG-Paris/site-devfest-2019.svg?style=svg)](https://circleci.com/gh/GDG-Paris/site-devfest-2019)
 
 ## Requirement
 
