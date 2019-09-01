@@ -44,7 +44,27 @@
   subtitle: GDG Paris
   photo: leena-bheemanee.png
   socials:
-    - link: 'https://www.twitter.com/LeenaK26'
-      name: Github
     - link: 'https://www.linkedin.com/in/leenabheemanee/'
       name: Linkedin
+    - link: 'https://www.twitter.com/LeenaK26'
+      name: Github
+- title: Paul Chabot
+  type: core
+  subtitle: GDG Paris
+  photo: paul-chabot.jpeg
+  socials:
+    - link: 'https://github.com/paulch4bot'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/pchabot/'
+      name: Linkedin
+- title: Thibault Pouget
+  type: core
+  subtitle: GDG Paris
+  photo: thibault-pouget.png
+  socials:
+    - link: 'https://github.com/thibaultpouget'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/thibaultpouget/'
+      name: Linkedin
+    - link: 'https://www.twitter.com/tpouget'
+      name: Github
