@@ -62,38 +62,36 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
-<!--
 {{% home-tickets %}}
-# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-paris-2020" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
-<li>{{< ticket name="Blind Birds"
-           starts="2019-03-25"
-           ends="2019-04-25"
-           price="40 €"
-           info="50 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Early Birds"
-           starts="2019-04-25"
-           ends="2019-06-22"
+<li>{{< ticket name="Super Early Bird"
+           starts="2019-09-01"
+           ends="2019-11-30"
+           price="30 €"
+           info="100 first places"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
+<li>{{< ticket name="Early Bird"
+           starts="2019-09-01"
+           ends="2020-01-31"
            price="60 €"
-           info="80 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Normal"
-           starts="2019-06-22"
-           ends="2019-10-03"
-           price="80 €"
-           info="300 last places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
+           info="200 first places"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
+<li>{{< ticket name="Regular"
+           starts="2019-09-01"
+           ends="2020-02-14"
+           price="90 €"
+           info=""
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 </ul>
 
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
--->
 
 <!-- ... -->
 
