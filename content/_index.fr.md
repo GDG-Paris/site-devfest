@@ -111,10 +111,9 @@ situé sur un emplacement privilégié,
 
 <!-- ... -->
 
-<!--
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/_01.jpg,/images/album/_02.jpg,/images/album/_03.jpg,/images/album/_04.jpg,/images/album/_05.jpg,/images/album/_06.jpg,/images/album/_07.jpg,/images/album/_08.jpg" %}}
 
-### Quelques photos du **DevFest Paris 2018** avec le thème _anime_. 
+### Quelques photos du **DevFest Paris 2019** avec le thème 👾 _anime_. 
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/mqeEg2ixhHDZizVJ8">
     Voir toutes les photos
@@ -122,7 +121,6 @@ situé sur un emplacement privilégié,
 </a>
 
 {{% /album  %}}
--->
 
 <!-- ... -->
 
