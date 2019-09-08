@@ -12,13 +12,11 @@ menu:
 ## 14 Février 2020
 ### Le Palais des Congrès d'Issy
 
-<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Devenez Partenaire 🇫🇷</a> -->
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/e/2PACX-1vRSyPr5tT4B5IuXX-s9XpYAbrQoy9Jf6awzT7y4dg2tH5bdJFfCHA3gwwBG3gYWEjWhKCxNBU8N2fDN/pub?start=false&loop=false&delayms=0" target="_blank">Devenez Partenaire 🇫🇷</a>
 
-<!--
-<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
+<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF" target="_blank">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Proposer une présentation
 </a>
--->
 
 {{% /jumbo %}}
 
@@ -127,6 +125,6 @@ situé sur un emplacement privilégié,
 
 {{% partners categories="platinium,gold,startup,soutien,communautes" %}}
 
-## Partenaires <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1oV9Wjrun0QAmyT_R4KbQJFCwY4NPJYpnuxZLUYrXsPU/edit?usp=sharing" target="_blank">Devenez Partenaire 🇫🇷</a>
+## Partenaires <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/e/2PACX-1vRSyPr5tT4B5IuXX-s9XpYAbrQoy9Jf6awzT7y4dg2tH5bdJFfCHA3gwwBG3gYWEjWhKCxNBU8N2fDN/pub?start=false&loop=false&delayms=0" target="_blank">Devenez Partenaire 🇫🇷</a>
 
 {{% /partners %}}
