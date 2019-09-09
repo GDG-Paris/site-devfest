@@ -113,7 +113,7 @@ in the immediate vicinity of the subway.
 
 ### Some pictures of the **DevFest Paris 2019** with the 👾 _anime_ theme.
 
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/mqeEg2ixhHDZizVJ8">
     See all photos
     {{% icon "right" %}}
 </a>
