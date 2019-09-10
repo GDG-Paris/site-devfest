@@ -26,8 +26,8 @@ content:
 
   - title: footer_previous_edition
     links:
-      - name: DevFest Paris 2018
-        url: https://2018.devfest.gdgparis.com/
+      - name: DevFest Paris 2019
+        url: https://2019.devfest.gdgparis.com/
         newTab: true
 
   - title: footer_become_partners
