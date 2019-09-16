@@ -79,3 +79,11 @@
       name: Linkedin
     - link: 'https://www.twitter.com/cbalit'
       name: Twitter
+- title: Olivier Leplus
+  type: core
+  subtitle: GDG Paris
+  photo: olivier-leplus.jpeg
+  socials:
+    - link: 'https://www.twitter.com/olivierleplus'
+      name: Twitter
+
