@@ -54,7 +54,7 @@
   photo: paul-chabot.jpeg
   socials:
     - link: 'https://github.com/paulch4bot'
-      name: Twitter
+      name: Github
     - link: 'https://www.linkedin.com/in/pchabot/'
       name: Linkedin
 - title: Thibault Pouget
@@ -63,8 +63,19 @@
   photo: thibault-pouget.png
   socials:
     - link: 'https://github.com/thibaultpouget'
-      name: Twitter
+      name: Github
     - link: 'https://www.linkedin.com/in/thibaultpouget/'
       name: Linkedin
     - link: 'https://www.twitter.com/tpouget'
+      name: Twitter
+- title: Cyril Balit
+  type: core
+  subtitle: GDG Paris
+  photo: thibault-pouget.png
+  socials:
+    - link: 'https://github.com/cbalit'
       name: Github
+    - link: 'https://www.linkedin.com/in/cyrilbalit/'
+      name: Linkedin
+    - link: 'https://www.twitter.com/cbalit'
+      name: Twitter
