@@ -36,7 +36,7 @@
   photo: pritesh-bheemanee.png
   socials:
     - link: 'https://www.twitter.com/PriteshP23'
-      name: Github
+      name: Twitter
     - link: 'https://www.linkedin.com/in/priteshbheemanee/'
       name: Linkedin
 - title: Leena Bheemanee
@@ -47,7 +47,7 @@
     - link: 'https://www.linkedin.com/in/leenabheemanee/'
       name: Linkedin
     - link: 'https://www.twitter.com/LeenaK26'
-      name: Github
+      name: Twitter
 - title: Paul Chabot
   type: core
   subtitle: GDG Paris
