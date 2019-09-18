@@ -4,3 +4,4 @@ node_modules/
 .firebase/
 .idea/
 *.iml
+.DS_Store
