@@ -88,4 +88,10 @@
       name: Twitter
     - link: 'https://www.linkedin.com/in/olivierleplus'
       name: Linkedin
-
+- title: Alain Regnier
+  type: core
+  subtitle: GDG Cloud Paris
+  photo: olivier-leplus.jpeg
+  socials:
+    - link: 'https://www.twitter.com/altolabs'
+      name: Twitter
