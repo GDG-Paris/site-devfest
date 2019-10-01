@@ -10,17 +10,6 @@
     - link: 'https://www.linkedin.com/in/benjaminlacroix/'
       name: Linkedin
   key: benjamin_lacroix
-- title: Michel Parpaillon
-  type: core
-  subtitle: GDG Paris
-  photo: michel-parpaillon.jpeg
-  socials:
-    - link: 'https://www.twitter.com/mparpaillon'
-      name: Twitter
-    - link: 'https://github.com/mparpaillon'
-      name: Github
-    - link: 'https://www.linkedin.com/in/michel-parpaillon-28b65223/'
-      name: Linkedin
 - title: Aude Plessier
   type: core
   subtitle: GDG Paris
