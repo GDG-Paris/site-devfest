@@ -82,7 +82,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            starts="2019-09-01"
            ends="2020-02-14"
            price="90 €"
-           info=""
+           info="900 places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 </ul>
