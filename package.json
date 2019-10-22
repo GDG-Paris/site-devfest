@@ -2,6 +2,7 @@
   "name": "site-devfest-2019",
   "version": "1.0.0",
   "scripts": {
+    "start": "hugo server -D",
     "deploy:ci": "firebase deploy --only hosting --token=$FIREBASE_TOKEN"
   },
   "repository": {

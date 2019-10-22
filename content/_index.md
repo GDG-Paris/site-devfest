@@ -22,17 +22,15 @@ menu:
 {{% /jumbo %}}
 
 {{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+
 ## What is DevFest Paris?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
 It is aimed at students, professionals or simply curious technophiles.
+
 {{% /home-info %}}
 
-<!--
-{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
--->
-
-<!-- ... -->
+{{< youtube-section link="_5ztmIDFRVY" title="Watch 2019 best moments" class="" >}}
 
 <!--
 {{% home-speakers %}}
