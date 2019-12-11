@@ -54,6 +54,8 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-subscribe %}}
 -->
 
+<!-- {{< figure src="/images/backgrounds/back-0.jpg" alt="artwork devfest 2020" class="home__artwork" >}} -->
+
 <!-- ... -->
 
 {{% home-tickets %}}
