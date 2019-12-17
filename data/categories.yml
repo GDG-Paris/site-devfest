@@ -1,24 +1,27 @@
-- key: big_data___ml___ai
-  name: Big Data / ML / AI
+- key: ml_ai
+  name: Machine Learning / Artificial Inteligence
   id: 3c7ab24d-59c1-5118-b6fa-ef679a376100
-- key: cloud___infra
-  name: Cloud / Infra
+- key: cloud
+  name: Cloud
   id: e3fdfb05-1630-5c56-bc5d-501217ad62e3
 - key: iot
   name: IOT
   id: a31d8be2-8f03-553d-b07b-ee30e2d13a6e
 - key: keynote
   name: Keynote
-- key: languages
-  name: Languages
+- key: discovery
+  name: Discovery
   id: b425f929-b026-52e9-87f4-89b30ec542d1
+- key: android
+  name: Android
+  id: 6cb5455f-23f1-5da7-b066-19017060dda7
 - key: lunch
   name: Lunch
-- key: method___tools
+- key: methods_tooling
   name: Method & Tools
   id: bb5eeaca-3d8d-5858-b4a9-63d90a11a792
-- key: native_mobile_apps
-  name: Native mobile apps
+- key: devops
+  name: DevOps
   id: 9edfb0de-db78-5e18-831d-d0c56d751515
 - key: office-hours
   name: Office Hours
