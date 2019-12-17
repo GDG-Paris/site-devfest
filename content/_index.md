@@ -15,9 +15,11 @@ menu:
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/e/2PACX-1vRSyPr5tT4B5IuXX-s9XpYAbrQoy9Jf6awzT7y4dg2tH5bdJFfCHA3gwwBG3gYWEjWhKCxNBU8N2fDN/pub?start=false&loop=false&delayms=0" target="_blank">Become a sponsor</a>
 
+<!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF" target="_blank">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
+-->
 
 {{% /jumbo %}}
 
@@ -32,19 +34,19 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{< youtube-section link="_5ztmIDFRVY" title="Watch 2019 best moments" class="" >}}
 
-<!--
 {{% home-speakers %}}
 ## Featured Speakers
+
+<!--
 {{< button-link label="Submit a presentation"
-                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+                url="https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF"
                 icon="cfp" >}}
+-->
+                
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
 {{% /home-speakers %}}
--->
-
-<!-- ... -->
 
 <!--
 {{% home-subscribe  class="primary" %}}

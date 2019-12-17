@@ -14,9 +14,11 @@ menu:
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/e/2PACX-1vRSyPr5tT4B5IuXX-s9XpYAbrQoy9Jf6awzT7y4dg2tH5bdJFfCHA3gwwBG3gYWEjWhKCxNBU8N2fDN/pub?start=false&loop=false&delayms=0" target="_blank">Devenez Partenaire 🇫🇷</a>
 
+<!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF" target="_blank">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Proposer une présentation
 </a>
+-->
 
 {{% /jumbo %}}
 
@@ -32,13 +34,14 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{< youtube-section link="_5ztmIDFRVY" title="Les meilleurs moments 2018" class="" >}}
 
-<!--
 {{% home-speakers %}}
 ## Conférenciers en vedette
 
+<!--
 {{< button-link label="Proposer une présentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
+-->
 
 {{< button-link label="Voir tous les conférenciers"
                 url="./speakers"
@@ -46,9 +49,6 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 
 {{% /home-speakers %}}
--->
-
-<!-- ... -->
 
 <!--
 {{% home-subscribe class="primary" %}}
