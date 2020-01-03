@@ -1,6 +1,6 @@
 ---
 key: serverless_apis_with_gcp
-title: 'Serverless APIs with GCP'
+title: "Serverless APIs with GCP"
 id: rD8nxmpgtVgv48f6o53N
 language: french
 format: Codelab

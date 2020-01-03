@@ -4,7 +4,7 @@ name: 'jean-francois garreau'
 id: bAkrQrssjgU1zb5V2y2QpVnuCmf1
 feature: true
 company: 'Sfeir / GDG Nantes'
-city: 'Nantes, France'
+city: Nantes, France
 photoURL: 'https://lh6.googleusercontent.com/-jDbKZi8b1pE/AAAAAAAAAAI/AAAAAAAASRc/rrjQ9nn1LgQ/photo.jpg'
 socials:
   - icon: twitter

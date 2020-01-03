@@ -4,7 +4,7 @@ name: 'Sebastien Moreno'
 id: nKPopia2lkYGej4Wzvbe4Pqgldn2
 feature: true
 company: 'Ippon Technologies'
-city: 'Bordeaux, France'
+city: Bordeaux, France
 photoURL: 'https://lh5.googleusercontent.com/-UwUhBessot8/AAAAAAAAAAI/AAAAAAAAAAA/PZMdVx421Fw/photo.jpg'
 socials:
   - icon: twitter

@@ -4,7 +4,7 @@ name: 'Romain Batby'
 id: bYJG6s0bucbWeYecUDbjP5FfiLk1
 feature: true
 company: 'Theodo'
-city: 'Paris, France'
+city: Paris, France
 photoURL: 'https://avatars1.githubusercontent.com/u/13064661?v=4'
 socials:
   - icon: twitter

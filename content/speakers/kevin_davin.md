@@ -4,7 +4,7 @@ name: 'Kevin Davin'
 id: rDKV0gUOk0O4WU9tpknPAngMF9A3
 feature: true
 company: 'Stack Labs'
-city: 'Toulouse, France'
+city: Toulouse, France
 photoURL: 'https://lh5.googleusercontent.com/-t2c2Q9TjKnA/AAAAAAAAAAI/AAAAAAAAFZU/G4vUXziejAw/photo.jpg'
 socials:
   - icon: twitter

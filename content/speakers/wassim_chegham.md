@@ -4,7 +4,7 @@ name: 'Wassim Chegham'
 id: 0yzdv6FVFYZWXmWird77HqsY49c2
 feature: true
 company: 'Microsoft'
-city: 'Paris, France'
+city: Paris, France
 photoURL: 'https://lh4.googleusercontent.com/-UvesPkEgVGs/AAAAAAAAAAI/AAAAAAAAJ-8/tcq37gGb_iA/photo.jpg'
 socials:
   - icon: twitter

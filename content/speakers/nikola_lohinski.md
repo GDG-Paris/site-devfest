@@ -4,7 +4,7 @@ name: 'Nikola Lohinski'
 id: CxYwtJCDgEbs0sJ0OxkghkwUJ4G3
 feature: true
 company: 'Stack Labs'
-city: 'Toulouse, France'
+city: Toulouse, France
 photoURL: 'https://lh5.googleusercontent.com/-MSYc2z97haQ/AAAAAAAAAAI/AAAAAAAAADw/6S9E4T6u1Ok/photo.jpg'
 socials:
   - icon: github

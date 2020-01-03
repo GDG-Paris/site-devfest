@@ -1,6 +1,6 @@
 ---
 key: tests_de_propri_t_s_ecrire_moins_de_tests_trouver_plus_de_bugs_
-title: 'Tests de propriétés : Ecrire moins de tests, trouver plus de bugs '
+title: "Tests de propriétés : Ecrire moins de tests, trouver plus de bugs "
 id: dEqnXdXaC6541H0PGewI
 language: french
 format: Codelab

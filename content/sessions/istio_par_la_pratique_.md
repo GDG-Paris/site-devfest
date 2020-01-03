@@ -1,6 +1,6 @@
 ---
 key: istio_par_la_pratique_
-title: 'istio ⛵️par la pratique !'
+title: "istio ⛵️par la pratique !"
 id: 2nUoRfU9qblCBji2OHWx
 language: french
 format: Codelab

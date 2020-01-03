@@ -4,7 +4,7 @@ name: 'Thomas Haessle'
 id: CvEV3hW9F9cljwCJbXHfJt21Yl73
 feature: true
 company: 'Cutii'
-city: 'Lille, France'
+city: Lille, France
 photoURL: 'https://avatars1.githubusercontent.com/u/5846502?v=4'
 socials:
   - icon: twitter

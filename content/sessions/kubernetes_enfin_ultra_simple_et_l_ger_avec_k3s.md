@@ -1,6 +1,6 @@
 ---
 key: kubernetes_enfin_ultra_simple_et_l_ger_avec_k3s
-title: 'Kubernetes enfin ultra simple et léger avec K3S'
+title: "Kubernetes enfin ultra simple et léger avec K3S"
 id: OIjVxOH5t9EA0uP1CFmV
 language: french
 format: Quickie

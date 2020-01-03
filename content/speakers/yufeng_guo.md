@@ -4,7 +4,7 @@ name: 'Yufeng Guo'
 id: RM3lLi7apNY6rynfWM919UgVp4s2
 feature: true
 company: 'Google'
-city: 'New York, United States'
+city: New York, United States
 photoURL: 'https://lh4.googleusercontent.com/-EEMGFGkf1t8/AAAAAAAAAAI/AAAAAAAAoIk/bA90o7Upirg/photo.jpg'
 socials:
   - icon: twitter
