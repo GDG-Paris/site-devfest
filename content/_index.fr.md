@@ -121,7 +121,7 @@ situé sur un emplacement privilégié,
 <!-- ... -->
 
 
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
+{{% partners categories="platinium,gold,silver" %}}
 
 ## Partenaires <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/e/2PACX-1vRSyPr5tT4B5IuXX-s9XpYAbrQoy9Jf6awzT7y4dg2tH5bdJFfCHA3gwwBG3gYWEjWhKCxNBU8N2fDN/pub?start=false&loop=false&delayms=0" target="_blank">Devenez Partenaire 🇫🇷</a>
 
