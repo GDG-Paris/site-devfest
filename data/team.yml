@@ -84,3 +84,14 @@
   socials:
     - link: 'https://www.twitter.com/altolabs'
       name: Twitter
+- title: Laurent Vaylet
+  type: core
+  subtitle: GDG Paris
+  photo: laurent-vaylet.jpeg
+  socials:
+    - link: 'https://www.twitter.com/laurent_vaylet'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/laurent-vaylet-66b49a5'
+      name: Linkedin
+    - link: 'https://github.com/lvaylet'
+      name: Github
