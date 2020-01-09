@@ -2,7 +2,7 @@
 key: ps
 title: 'Publicis Sapient Engineering'
 category: gold
-logo: /images/partners/pse.svg
+logo: /images/partners/pse.png
 website: 'https://www.publicissapient.fr/services/technology-engineering'
 lang: fr
 socials:
