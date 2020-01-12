@@ -1,16 +1,17 @@
-- key: lunchroom
-  label: Salle déjeuner
-  skip: true
-- key: halls
-  label: Halls
-  skip: true
-- key: office-hours
-  label: Office-hours
 - key: room1
-  label: Grand amphi.
+  label: Berlioz
+  description: Hello
 - key: room2
-  label: Grande salle
+  label: 'Salle -2'
 - key: room3
-  label: Salle du haut
-- key: room4
-  label: Petite salle
+  label: Molière
+- key: codelab1
+  label: 'Codelab 1'
+- key: codelab2
+  label: 'Codelab 2'
+- key: codelab3
+  label: 'Codelab 3'
+- key: codelabSponsor1
+  label: 'Sponsor 1'
+- key: codelabSponsor2
+  label: 'Sponsor 2'

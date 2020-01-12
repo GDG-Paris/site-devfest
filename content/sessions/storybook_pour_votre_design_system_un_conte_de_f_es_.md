@@ -5,7 +5,7 @@ id: GOy9xsl5UNPVMwJKZzVf
 language: french
 format: Conference
 tags:
-  - 'ux_ui'
+  - web
 
 level: beginner
 speakers:

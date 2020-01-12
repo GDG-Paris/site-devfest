@@ -1,18 +1,18 @@
 - key: conference
-  name: 'Conference '
-  id: 4c0d8a93-a0fb-5fe4-ab31-7cc56e05e942
+  name: 'Conference'
+- key: conference
+  name: 'Conference'
 - key: keynote
   name: Keynote
 - key: lunch
   name: Lunch
-- key: office-hours
-  name: Office Hours
+- key: codelab
+  name: Codelab
 - key: open
   name: Ouverture
 - key: party
   name: Party
-- key: pause
-  name: Pause
+- key: break
+  name: Break
 - key: quickie
   name: Quickie
-  id: f1f4eb00-ff40-57ea-805a-b3aa3ce5f6e6
