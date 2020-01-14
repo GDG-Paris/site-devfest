@@ -13,11 +13,15 @@ speakers:
 
 ---
 
-L'IoT, la connection au monde réel, un monde dont la limite est l'imagination.
+L’IoT, la connection au monde réel, un monde dont la limite est l'imagination.
 
-Je propose de présenter les éléments d'une architecture IoT: depuis la capture des données, le passage par une passerelle,  l'envoi de ces données vers Google IoT Core, le traitement de ces données avec les services GCP et le retour dans l'autre sens pour commander des capteurs.
+Dans cette session d'introduction, nous verrons comment les entreprises peuvent mettre en place une architecture IoT pour la capture, l'analyse et l'utilisation de leurs données.
 
-Avec un retour d'expérience sur deux types de passerelles: une passerelle Moxa et une passerelle Sierra FX30.
-Ceci avec du python bas niveau et aussi avec des la programmation graphique en nodered / nodejs 
+Nous nous focaliserons sur l'exemple d'un projet qui consiste à capturer des mesures de métrage d'une chaîne de production, affichées aux opérateurs dans leur navigateur, et analysées pour optimiser les processus.
 
-Je peux avoir des passerelles de test et peux faire des démos en live soit dans un talk, et dans un codelab avec des vraies mesures de captures depuis les tours d'une roue et la commande d'un compteur de vitesse.
+Dans cette session d'introduction à l'IoT, nous verrons :
+- les briques de l'architecture IoT correspondante,
+- les services GCP qui permettent de couvrir cette architecture,
+- les passerelles que nous avons utilisées,
+- une présentation de la programmation graphique d'un flux avec NodeRED / NodeJS,
+- et pour finir une démo live de capture à partir d'une roue si tout va bien ;)
