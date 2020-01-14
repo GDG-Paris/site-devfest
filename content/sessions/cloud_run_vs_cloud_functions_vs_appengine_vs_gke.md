@@ -10,10 +10,12 @@ tags:
 level: intermediate
 speakers:
   - antoine_castex
+  - alexandre_vivien
+  - guillaume_blaquiere
 
 ---
 
-l'offre s'aggrandit mais au final quel service pour quel usage ?
+L'offre s'aggrandit mais au final quel service pour quel usage ?
 
-une overview de ces 4 pilliers, et des use case pour chacun avec les limites et differences bien resumées
+Une overview de ces 4 pilliers, et des use case pour chacun avec les limites et differences bien resumées
 
