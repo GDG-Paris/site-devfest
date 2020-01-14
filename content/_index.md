@@ -76,7 +76,7 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2020-01-31"
            price="60 €"
            info="200 first tickets"
-           soldOut=""
+           soldOut="y"
            url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 <li>{{< ticket name="Regular"
            starts="2019-09-01"
