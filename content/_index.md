@@ -23,7 +23,7 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:5" class="primary" %}}
 
 ## What is DevFest Paris?
 
@@ -82,7 +82,7 @@ It is aimed at students, professionals or simply curious technophiles.
            starts="2019-09-01"
            ends="2020-02-14"
            price="90 €"
-           info="900 tickets"
+           info="600 tickets"
            soldOut=""
            url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 </ul>

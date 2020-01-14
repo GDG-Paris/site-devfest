@@ -24,7 +24,7 @@ menu:
 
 <!-- ... -->
 
-{{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:4" class="primary" %}}
+{{% home-info what="Participants:900,Journée:1,Conférences:36,Tracks en parallèle:5" class="primary" %}}
 
 ## Le DevFest Paris, c'est quoi&nbsp;?
 
@@ -82,7 +82,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            starts="2019-09-01"
            ends="2020-02-14"
            price="90 €"
-           info="900 places"
+           info="600 places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 </ul>
