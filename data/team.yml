@@ -95,3 +95,12 @@
       name: Linkedin
     - link: 'https://github.com/lvaylet'
       name: Github
+- title: Julie Robles
+  type: core
+  subtitle: GDG Paris
+  photo: julie-robles.jpg
+  socials:
+    - link: 'https://www.twitter.com/julovesnewstuff'
+      name: Twitter
+    - link: 'https://github.com/roblesjulie'
+      name: Linkedin
