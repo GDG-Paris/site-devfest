@@ -2,7 +2,7 @@
 key: kotlin_multiplatform_mutualiser_du_code_sur_ios_et_android
 title: "Kotlin Multiplatform : mutualiser du code sur iOS et Android"
 id: gevXHeoGYajrCygKBiwx
-language: undefined
+language: french
 format: Codelab
 tags:
   - 'android'

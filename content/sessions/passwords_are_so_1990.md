@@ -2,7 +2,7 @@
 key: passwords_are_so_1990
 title: "Passwords are so 1990"
 id: q2b8SQV4qtVbw0MtzSbO
-language: undefined
+language: english
 format: Conference
 tags:
   - 'web'

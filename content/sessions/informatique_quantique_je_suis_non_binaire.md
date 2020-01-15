@@ -2,7 +2,7 @@
 key: informatique_quantique_je_suis_non_binaire
 title: "Informatique quantique, je suis non binaire"
 id: zvbagtyYCZ51JAFpel53
-language: undefined
+language: french
 format: Quickie
 tags:
   - 'discovery'

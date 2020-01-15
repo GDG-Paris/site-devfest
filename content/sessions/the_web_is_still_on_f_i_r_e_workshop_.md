@@ -2,7 +2,7 @@
 key: the_web_is_still_on_f_i_r_e_workshop_
 title: "The Web is still on 🔥 F.I.R.E. 🔥 !!!"
 id: gqFPXs1P347s4wILoYxi
-language: undefined
+language: french
 format: Codelab
 tags:
   - 'web'

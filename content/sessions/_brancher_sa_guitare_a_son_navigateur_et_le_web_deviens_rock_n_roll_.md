@@ -2,7 +2,7 @@
 key: _brancher_sa_guitare_a_son_navigateur_et_le_web_deviens_rock_n_roll_
 title: "🤘🎸 Brancher sa guitare a son navigateur : Et le web deviens rock'n'roll !  🤘🎸"
 id: imlHFq6TjUPfXNZ0vIfl
-language: undefined
+language: french
 format: Conference
 tags:
   - 'discovery'

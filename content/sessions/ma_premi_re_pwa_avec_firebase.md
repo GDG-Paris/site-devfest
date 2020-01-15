@@ -2,7 +2,7 @@
 key: ma_premi_re_pwa_avec_firebase
 title: "Ma première PWA avec Firebase"
 id: eNslqCgckU456qWvi5Hj
-language: undefined
+language: french
 format: Codelab
 tags:
   - 'web'
