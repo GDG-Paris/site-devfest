@@ -80,11 +80,11 @@
     - room: codelab1
       slots:
         - slot: slot-codelab-1
-          talk: spinnaker_continuous_delivery_on_kubernetes
+          talk: istio_par_la_pratique_
         - slot: slot-codelab-2
           talk: les_mains_dans_le_cambouis_avec_webassembly_
         - slot: slot-codelab-3
-          talk: istio_par_la_pratique_
+          talk: spinnaker_continuous_delivery_on_kubernetes
     - room: codelab2
       slots:
         - slot: slot-codelab-1
