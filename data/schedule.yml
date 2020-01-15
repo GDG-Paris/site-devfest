@@ -40,7 +40,7 @@
     - room: room2
       slots:
         - slot: slot-1
-          talk: le_web_natif_d_barque
+          talk: use_gan_with_tensorflow_to_draw_manga
         - slot: slot-2
           talk: dit_papa_c_est_quoi_bazel_
         - slot: slot-lt-1
@@ -70,7 +70,7 @@
         - slot: slot-lt-3
           talk: rex_de_criminologue_d_veloppeuse
         - slot: slot-3
-          talk: use_gan_with_tensorflow_to_draw_manga
+          talk: le_web_natif_d_barque
         - slot: slot-4
           talk: storybook_pour_votre_design_system_un_conte_de_f_es_
         - slot: slot-5
