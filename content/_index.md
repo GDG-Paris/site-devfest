@@ -68,7 +68,7 @@ It is aimed at students, professionals or simply curious technophiles.
            starts="2019-09-01"
            ends="2019-11-30"
            price="30 €"
-           info="100 first tickets"
+           info="150 first tickets"
            soldOut="y"
            url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 <li>{{< ticket name="Early Bird"
@@ -82,7 +82,7 @@ It is aimed at students, professionals or simply curious technophiles.
            starts="2019-09-01"
            ends="2020-02-14"
            price="90 €"
-           info="600 tickets"
+           info="650 tickets"
            soldOut=""
            url="https://www.billetweb.fr/devfest-paris-2020" >}}</li>
 </ul>
