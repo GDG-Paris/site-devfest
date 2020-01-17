@@ -94,7 +94,7 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... -->
 
 {{% home-location
-    image="/images/map.png"
+    image="/images/map.jpg"
     address="327 Rue de Charenton, 75012 Paris"
     latitude="48.8328838"
     longitude="2.3943578" %}}
