@@ -4,9 +4,13 @@ name: 'Julien Calderan'
 id: aBn6WfBV4iNCdfYjiDOTAtHvEMp2
 feature: false
 company: ''
-city: ""
-photoURL: 'https://lh4.googleusercontent.com/-jjI5_IdEF8I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re47ZPtB7Gzvdk6KBFBpV3cV_Wdfw/photo.jpg'
+city: 'Paris, France'
+photoURL: '/images/speakers/julien-calderan.png'
+socials:
+  - icon: twitter
+    link: 'https://twitter.com/JulienCalderan'
 
 ---
 
-
+Julien est développeur et consultant chez Publicis Sapient Engineering, où il intervient sur le développement 
+d’application et de la gestion de leur cycle de vie.
