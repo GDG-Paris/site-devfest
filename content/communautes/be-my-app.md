@@ -4,12 +4,12 @@ title: BeMyApp
 category: communautes
 logo: /images/partners/community/be-my-app.jpeg
 website: 'https://www.bemyapp.com/'
-socials:
-  - icon: twitter
-    link: 'https://twitter.com/bemyapp'
-  - icon: instagram
-    link: 'https://www.youtube.com/user/BeMyApp'
+
 ---
+
+<a href="https://www.bemyapp.com/">
+    <img src="/images/partners/community/be-my-app.jpeg" width="100px" alt="logo be my app">
+</a>
 
 Building relationships between companies and developers is our focus.
 
