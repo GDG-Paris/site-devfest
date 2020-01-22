@@ -24,7 +24,7 @@
         - slot: slot-lt-3
           talk: flutter_web_que_peut_on_faire_aujourd_hui_
         - slot: slot-3
-          talk: une_d_cennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_s_curis_s_evolution_d_un_paas_vu_de_l_int_rieur_
+          talk: _ctf_101_retour_sur_le_challenge_richelieu_de_la_dgse_
         - slot: break-3
           talk: __break
         - slot: slot-4
@@ -36,7 +36,7 @@
         - slot: break-5
           talk: __break
         - slot: slot-6
-          talk: _ctf_101_retour_sur_le_challenge_richelieu_de_la_dgse_
+          talk: une_d_cennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_s_curis_s_evolution_d_un_paas_vu_de_l_int_rieur_
     - room: room2
       slots:
         - slot: slot-1
