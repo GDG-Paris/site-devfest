@@ -3,7 +3,7 @@ key: pierre_tibulle
 name: 'Pierre Tibulle'
 id: 9LHSTmgvjXcyMPyfifAgXjtP6Z02
 feature: false
-company: 'ASI'
+company: 'IKOBOX'
 city: Nantes, France
 photoURL: 'https://lh6.googleusercontent.com/-EPCphRSOO1Y/AAAAAAAAAAI/AAAAAAAAARo/JCN5RTGQPos/photo.jpg'
 socials:
