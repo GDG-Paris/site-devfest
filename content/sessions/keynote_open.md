@@ -5,6 +5,7 @@ format: keynote
 language: french
 tags:
   - keynote
+level: beginner
 speakers:
   - herve_dumas
   
