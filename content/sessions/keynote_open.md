@@ -5,5 +5,7 @@ format: keynote
 language: french
 tags:
   - keynote
+speakers:
+  - herve_dumas
   
 ---
