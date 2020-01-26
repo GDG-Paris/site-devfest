@@ -1,6 +1,6 @@
 ---
 key: mohamed_chaaben
-name: 'mohamed chaaben'
+name: 'Mohamed Chaaben'
 id: urRLwXs39zgc4DVNj78qOAB55Ck2
 feature: false
 company: 'D2SI'

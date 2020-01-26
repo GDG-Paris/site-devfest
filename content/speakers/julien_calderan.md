@@ -3,12 +3,13 @@ key: julien_calderan
 name: 'Julien Calderan'
 id: aBn6WfBV4iNCdfYjiDOTAtHvEMp2
 feature: false
-company: ''
+company: 'Publicis Sapient Engineering'
 city: 'Paris, France'
 photoURL: '/images/speakers/julien-calderan.png'
 socials:
   - icon: twitter
     link: 'https://twitter.com/JulienCalderan'
+    name: '@JulienCalderan'
 
 ---
 

@@ -11,6 +11,7 @@ level: intermediate
 speakers:
   - julien_calderan
   - mohamed_chaaben
+  - rene_okouya
 
 ---
 
