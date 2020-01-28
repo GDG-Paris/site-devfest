@@ -10,6 +10,7 @@ tags:
 level: intermediate
 speakers:
   - thomas_haessle
+  - julien_debon
 
 ---
 
