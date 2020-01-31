@@ -1,12 +1,23 @@
 ---
 key: codelab_sogeti
-title: Sogeti
+title: 'Machine learning, codez votre premier réseau de neurones'
 format: Codelab
 tags:
-  - discovery
+  - ml_ai
 
 level: beginner
 
 ---
 
-Intervention de Sogeti.
+Animateurs : 
+
+* Adel TALEB
+* Mustapha BOUSSEBAINE
+* Sid CHORFI
+
+Agenda :
+
+* Le machine learning, kézako ?
+* La théorie des réseaux de neurones.
+* Codons notre premier réseau de neurones.
+* Conclusion

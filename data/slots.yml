@@ -26,7 +26,7 @@
   start: '10:00'
   duration: 120
   row:
-    start: 8
+    start: 7
     end: 18
 - key: break-2
   start: '10:40'
@@ -62,7 +62,7 @@
   start: '13:30'
   duration: 120
   row:
-    start: 21
+    start: 20
     end: 29
 - key: slot-lt-3
   start: '13:30'
