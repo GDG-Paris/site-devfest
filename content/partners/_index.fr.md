@@ -14,4 +14,4 @@ draft: false
 
 <!-- Parteners list -->
 
-{{< partners categories="platinium,gold,silver" >}}
+{{< partners categories="platinium,gold,bronze,silver" >}}
