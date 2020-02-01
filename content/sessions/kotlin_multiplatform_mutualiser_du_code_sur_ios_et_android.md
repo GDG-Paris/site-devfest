@@ -21,7 +21,8 @@ Durant ce workshop nous allons faire une introduction pratique à Kotlin Multipl
 
 ## Pré-requis
 
-  * Des notions de développement natif Android et/ou iOS sont requises pour profiter pleinement de ce workshop.
-  * Vous arriverez à la séance équipés d’un **ordinateur portable**, avec **Android Studio 3.4+** et **XCode 10.2+** si vous disposez d’un Mac (afin de compiler l’application iOS).
+* Des notions de développement natif Android et/ou iOS sont requises pour profiter pleinement de ce workshop.
+* Vous arriverez à la séance équipés d’un **ordinateur portable**, avec **Android Studio 3.4+** et **XCode 10.2+** si vous disposez d’un Mac (afin de compiler l’application iOS).
+* La première étape est fortement consommatrice de réseau, merci de suivre ce petit guide pour pouvoir démarrer sans problème : https://ptibulle.github.io/getting-started-codelab-kmp
 
 
