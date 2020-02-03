@@ -1,6 +1,6 @@
 ---
 key: codelab_microsoft
-title: 'Envoyez la Nitro : construisez une API serverless avec Nest.js à toute vitesse !'
+title: 'Microsoft : Envoyez la Nitro, construisez une API serverless avec Nest.js à toute vitesse !'
 format: Codelab
 tags:
   - discovery

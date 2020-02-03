@@ -1,6 +1,6 @@
 ---
 key: codelab_sogeti
-title: 'Machine learning, codez votre premier réseau de neurones'
+title: 'Sogeti : Machine learning, codez votre premier réseau de neurones'
 format: Codelab
 tags:
   - ml_ai
