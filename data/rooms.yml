@@ -1,21 +1,18 @@
 - key: room1
   label: Berlioz
 - key: room2
-  label: 'Salle -2'
+  label: 'Salle 10 (-2)'
 - key: room3
   label: Molière
 - key: codelab1
-  label: 'Codelab'
-  description: 1
+  label: 'Codelab 1'
 - key: codelab2
-  label: 'Codelab'
-  description: 2
+  label: 'Codelab 2'
 - key: codelab3
-  label: 'Codelab'
-  description: 3
+  label: 'Codelab 3'
 - key: codelabSponsor1
-  label: 'Codelab'
-  description: 'Sponsor A'
+  label: 'Codelab A'
+  description: 'Sponsor'
 - key: codelabSponsor2
-  label: 'Codelab'
-  description: 'Sponsor B'
+  label: 'Codelab B'
+  description: 'Sponsor'
