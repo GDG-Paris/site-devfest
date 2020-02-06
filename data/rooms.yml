@@ -6,13 +6,16 @@
   label: Molière
 - key: codelab1
   label: 'Codelab 1'
+  description: 'Room 5'
 - key: codelab2
   label: 'Codelab 2'
+  description: 'Room 9'
 - key: codelab3
   label: 'Codelab 3'
+  description: 'Room 6+7'
 - key: codelabSponsor1
   label: 'Codelab A'
-  description: 'Sponsor'
+  description: 'Room 4'
 - key: codelabSponsor2
   label: 'Codelab B'
-  description: 'Sponsor'
+  description: 'Room 8'
