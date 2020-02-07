@@ -10,6 +10,8 @@ tags:
 level: advanced
 speakers:
   - seifeddin_mansri
+  - yann_chenu
+  - nejmeddine_ben_ouarred
 
 ---
 
@@ -24,8 +26,8 @@ Ensuite nous allons déployer trois backends complètements différents (Langage
 - Backend-2 en Java sur Cloud Functions (Solution FaaS).
 - Backend-3 en Python sur AppEngine Standard (Solution PaaS).
 
-Nous terminerons par la mise en place des fonctionnalités avancées comme :
-- La restriction des accès aux différents environnements d'exécutions pour qu'ils soient appelés uniquement à travers notre API.
+Nous terminerons par la mise en place des fonctionnalités avancées comme :
+- La restriction des accès aux différents environnements d'exécutions pour qu’ils soient appelés uniquement à travers notre API.
 - La mise en place de l'authentification pour sécuriser les appels externes.
 - La définition de quotas pour se prémunir des sollicitations excessives des différents endpoints.
 - La génération d'un portail développeur.
