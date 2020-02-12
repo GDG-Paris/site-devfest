@@ -4,6 +4,6 @@ name: 'Yann Chenu'
 feature: false
 company: 'Sfeir'
 city: 'Paris, France'
-photoURL: '/images/speakers/yann-chenu.png'
+photoURL: '/images/speakers/yann-chenu.jpg'
 
 ---
